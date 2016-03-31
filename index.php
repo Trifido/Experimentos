@@ -11,7 +11,7 @@
         
         $pagina = 'dashboard';
     }
-    // prueba
+    // prueba 
 ?>
 
 
